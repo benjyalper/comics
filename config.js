@@ -4,5 +4,5 @@
 // row-level security rules in supabase/setup.sql, not by keeping this key secret.
 window.COMICS_CONFIG = {
   SUPABASE_URL: 'https://ywpnnjecsaitzaeyowpu.supabase.co',
-  SUPABASE_ANON_KEY: 'YOUR_ANON_KEY',
+  SUPABASE_ANON_KEY: 'sb_publishable_VQjQhQJeHuWFTw03cXJckQ_gZNodmBM',
 };
